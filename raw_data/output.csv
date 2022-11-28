@@ -1,0 +1,39 @@
+﻿"Output, by sector and industry, provincial and territorial (x 1,000,000) 1 2 3 4"
+"Frequency: Annual"
+"Table: 36-10-0488-01 (formerly CANSIM 381-0031)"
+"Release date: 2022-11-08"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Industry","Residential building construction  [BS23A]","Non-residential building construction  [BS23B]","Engineering construction  [BS23C]","Repair construction  [BS23D]","Other activities of the construction industry  [BS23E]","Manufacturing  [BS3A0]"
+"Geography","Reference period"
+,,"Dollars",,,,,
+"Quebec","2011","19,852.8","8,439.8","14,780.2","7,353.9","462.2","145,645.1"
+,"2012","20,366.7","9,882.7","16,356.4","8,046.8","486.6","148,294.4"
+,"2013","19,239.8","9,130.2","16,332.6","7,372.2","522.3","146,463.5"
+,"2014","19,338.9","9,455.8","14,120.6","8,430.3","557.2","153,768.9"
+,"2015","19,292.3","8,981.2","14,444.5","9,033.1","606.6","156,183.2"
+,"2016","19,986.3","8,333.7","13,689.4","9,348.5","565.4","158,376.5"
+,"2017","22,004.3","8,468.2","14,995.4","9,870.0","594.5","170,313.6"
+"Ontario","2011","32,882.1","17,728.2","17,302.5","12,028.8","1,135.3","289,492.4"
+,"2012","36,513.1","16,510.1","19,361.2","11,648.9","1,169.4","301,628.5"
+,"2013","35,983.9","15,126.2","19,926.0","12,584.2","1,235.6","301,250.3"
+,"2014","36,936.5","15,009.5","22,804.3","13,323.5","1,331.9","314,820.6"
+,"2015","40,613.0","16,734.1","25,143.3","14,344.7","1,457.3","329,056.4"
+,"2016","45,169.2","15,126.1","23,372.1","14,433.4","1,356.6","335,236.9"
+,"2017","48,967.9","17,418.4","22,573.3","14,977.2","1,421.0","339,954.0"
+
+
+
+
+Footnotes:
+1,"This table replaces table 36-10-0409. Data in this table are not fully comparable with those previously published."
+2,"The industries in this table are based on the Input-Output Industry Classification (IOIC). This classification has four levels of hierarchy, consisting of the Detail level, Link-1997 level, Link-1961 level and Summary level. The classification is available upon request."
+3,"The information contained within this table is based on the 2019 comprehensive revision of the Canadian System of Macroeconomic Accounts. More information about these changes is available at the following link: <a href="https://www150.statcan.gc.ca/n1/pub/13-605-x/2019001/article/00007-eng.htm" rel="external noopener noreferrer" target="_blank">A preview of the 2019 revision of the Canadian System of Macroeconomic Accounts (opens new window)</a>."
+4,"Effective with the May 1, 2019 release, estimates of output by industry include estimates of the licensed and unlicensed economic activities related to cannabis production, distribution and consumption for non-medical and medical use. This is reflected in the introduction of new industries in the agriculture and retail sectors covering licensed and unlicensed activities back to the beginning of the current series in 1997. For more information, please read the article "<a href="https://www150.statcan.gc.ca/n1/pub/13-605-x/2018001/article/54969-eng.htm" rel="external noopener noreferrer" target="_blank">Integrating the production, distribution and consumption of cannabis in the Canadian national economic accounts (opens new window)</a>"."
+
+
+
+"How to cite: Statistics Canada. Table 36-10-0488-01  Output, by sector and industry, provincial and territorial (x 1,000,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610048801

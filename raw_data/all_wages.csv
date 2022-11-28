@@ -1,0 +1,57 @@
+﻿"Employee wages by industry, annual (x 1,000) 1"
+"Frequency: Annual"
+"Table: 14-10-0064-01 (formerly CANSIM 282-0072)"
+"Release date: 2022-01-07"
+"Geography: Canada, Province or territory"
+""
+""
+
+,,"Wages 3","Total employees, all wages"
+,,"Type of work","Full-time employees 5"
+,,"Sex","Both sexes"
+,,"Age group","15 years and over"
+"Geography 2","North American Industry Classification System (NAICS) 4","Reference period"
+,,,"Persons"
+"Quebec","Construction","2011","180.4"
+,,"2012","184.6"
+,,"2013","192.6"
+,,"2014","175.2"
+,,"2015","162.1"
+,,"2016","164.7"
+,,"2017","176.0"
+,"Manufacturing","2011","456.7"
+,,"2012","459.3"
+,,"2013","461.1"
+,,"2014","452.6"
+,,"2015","448.6"
+,,"2016","450.6"
+,,"2017","446.3"
+"Ontario","Construction","2011","289.5"
+,,"2012","285.9"
+,,"2013","290.6"
+,,"2014","305.9"
+,,"2015","310.2"
+,,"2016","329.8"
+,,"2017","339.4"
+,"Manufacturing","2011","716.0"
+,,"2012","722.1"
+,,"2013","698.0"
+,,"2014","684.3"
+,,"2015","688.4"
+,,"2016","693.7"
+,,"2017","709.7"
+
+
+
+
+Footnotes:
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+2,"Excluding the territories."
+3,"Beginning January 1997, information is collected on the usual wages or salary of employees at their main job. Respondents are asked to report their wage/salary before taxes and other deductions, and include tips, commissions and bonuses. Weekly and hourly wages/salaries are calculated in conjunction with usual paid work hours per week."
+4,"Industry refers to the general nature of the business carried out by the employer for whom the respondent works (main job only). In January 1999, the industry classification switched from Standard Industrial Classification (SIC 1980) to North American Industrial Classification System (NAICS), which was quite different. For this reason, detailed historical data based on NAICS is provided going back to January 1987. Historical data have been created by imputation. Industry estimates in this table are based on the 2017 North American Industry Classification System (NAICS)."
+5,"Full-time employees are those who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0064-01  Employee wages by industry, annual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410006401
